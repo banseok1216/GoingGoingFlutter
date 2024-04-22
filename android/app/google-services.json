@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918197934137",
+    "project_id": "goinggoing-a7935",
+    "storage_bucket": "goinggoing-a7935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918197934137:android:23e15b09874378443095e8",
+        "android_client_info": {
+          "package_name": "com.example.goinggoing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxM6ca34vkzvUBiZU28LmY4w_3ujo5cDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
